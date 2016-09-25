@@ -1,3 +1,5 @@
-Right Now, I am trying to write the file
-YOYO
-YXYXOXYXOXYXO
+This is the sample txt document
+YOYOYOY
+XOXOXOX
+ZOZOZOZ
+
